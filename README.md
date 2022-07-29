@@ -3,3 +3,10 @@
 
 <h2> <p>Requirements <p> </h2>
 <p> Python 3.10.2
+<p><tab><b>Libraries</b></tab></p>
+  import pandas as pd
+  import numpy as np
+  import matplotlib
+  import matplotlib.pyplot as plt
+  
+  
